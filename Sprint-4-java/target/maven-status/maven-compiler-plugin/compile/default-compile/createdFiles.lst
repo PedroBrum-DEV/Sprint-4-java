@@ -1,0 +1,15 @@
+br\com\fiap\dao\ConnectionFactory.class
+br\com\fiap\dao\PacienteDAO.class
+br\com\fiap\bo\PacienteBO.class
+br\com\fiap\resourse\ConsultaResource.class
+br\com\fiap\to\ConsultaTO.class
+br\com\fiap\resourse\PacienteResourse.class
+br\com\fiap\resourse\MedicoResource.class
+br\com\fiap\to\MedicoTO.class
+br\com\fiap\bo\MedicoBO.class
+br\com\fiap\dao\ConsultaDAO.class
+br\com\fiap\GreetingResource.class
+br\com\fiap\dao\MedicoDAO.class
+br\com\fiap\to\PacienteTO.class
+br\com\fiap\bo\ConsultaBO.class
+br\com\fiap\utilidades\Validacoes.class
